@@ -1,0 +1,11 @@
+.content-wrapper {
+    padding: 0;
+    margin: 0;
+    max-width: none;
+}
+.post:first-child, .post:last-child {
+    border-radius: 0;
+}
+.posts-list .post {
+    padding: 1.2em;
+}
