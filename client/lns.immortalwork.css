@@ -1,0 +1,26 @@
+.content-wrapper {
+    padding: 0;
+    margin: 0;
+    max-width: none;
+}
+.post:first-child:last-child {
+    border-radius: 0
+}
+.posts-list .post {
+    padding: 1.2em;
+}
+.post-heading .post-title {
+    font-size: 1.2em;
+    color: #fff;
+}
+.post-heading .post-title:visited {
+    color: rgba(255, 255, 255, 0.5);
+}
+.post {
+    border-bottom: none;
+    border-radius: 0 !important;
+}
+.post-vote .vote-actions {
+    border: 0;
+    background: rgba(255, 255, 255, 0.5);
+}
